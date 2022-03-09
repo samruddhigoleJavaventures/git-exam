@@ -1,3 +1,3 @@
 # This program prints Hello, world!
 
-print('Hello feature  1')
+print('Hello feature  2')
